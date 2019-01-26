@@ -1,0 +1,4 @@
+baseURL = "http://shunsukekaiya.github.io/" #変更
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "ananke" #追加
