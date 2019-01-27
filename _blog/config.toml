@@ -1,4 +1,4 @@
-baseURL = "http://shunsukekaiya.github.io/blog/_blog" #変更
+baseURL = "http://shunsukekaiya.github.io/" #変更
 languageCode = "ja"
 title = "UMIKUNchannel"
 theme = "ananke" #追加
