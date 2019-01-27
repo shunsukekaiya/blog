@@ -1,0 +1,4 @@
+[submodule "_blog/public"]
+	path = _blog/public
+	url = git@github.com:shunsukekaiya/shunsukekaiya.github.io.git
+	branch = master
