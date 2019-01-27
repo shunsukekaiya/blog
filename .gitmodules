@@ -2,3 +2,12 @@
 	path = _blog/public
 	url = git@github.com:shunsukekaiya/shunsukekaiya.github.io.git
 	branch = master
+[submodule "_blog/themes/themes/ananke"]
+	path = _blog/themes/themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "_blog/themes/ananke"]
+	path = _blog/themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
